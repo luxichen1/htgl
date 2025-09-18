@@ -1,0 +1,1 @@
+import{_ as e}from"./home-DY1pd_Vc.js";import{z as o,A as t}from"./element-Dj5MmTh2.js";import"./echarts-BEN5nOdZ.js";const c={},r={class:""};function s(n,_){return t(),o("div",r,"商品")}const l=e(c,[["render",s]]);export{l as default};
